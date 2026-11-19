@@ -1,0 +1,6 @@
+{
+  "name": "Krunal — Video Editor Portfolio",
+  "description": "High-retention video editing portfolio for creators and brands across YouTube long-form, shorts, reels, gaming, podcasts, cinema, and motion graphics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
